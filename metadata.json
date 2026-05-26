@@ -1,0 +1,6 @@
+{
+  "name": "Phan Thiết Healing",
+  "description": "Thương hiệu may đo thiết kế các dòng tour trải nghiệm du lịch thiên nhiên hoang sơ kết hợp chữa lành thể trạng thân tâm tịnh tại Phan Thiết & Phú Quý.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
